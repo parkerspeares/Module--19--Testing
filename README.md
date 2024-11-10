@@ -1,4 +1,5 @@
-Challenge-19: Cypress Testing
+Challenge 19 Testing
+
 Overview
 This project demonstrates Cypress testing using TypeScript. It is licensed under the MIT License.
 
